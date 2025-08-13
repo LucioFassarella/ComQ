@@ -1,1 +1,2 @@
-Repositório do curso Computação Quântica, do Prof. Lúcio S. Fassarella.
+Computação Quântica: teoria e prática
+Arquivo de códigos
